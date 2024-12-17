@@ -1,5 +1,7 @@
 # Sentiment Analysis of Google Play Store Reviews for Functional Requirement Extraction
 
+Link to Main File: https://github.com/arjunKa/SentimentAnalysis/blob/master/EECS_4312_Project.ipynb
+
 ## Overview
 
 This project demonstrates how to use sentiment analysis on Google Play Store reviews to identify important features and functional requirements for app development. By analyzing reviews from five different apps, we aim to determine which features users value the most and what improvements they seek. This analysis provides actionable insights for creating a new app tailored to user needs.
